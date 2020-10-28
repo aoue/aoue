@@ -1,9 +1,9 @@
 ### Hello there
-##University of California, Santa Cruz 
+##University of California, Santa Cruz \n
 #B.S. Computer Science, rising senior					|	       June 2022 expected graduation
 4.0 GPA
 
-Data structures (22C, 101)
+Data structures (22C, 101)\n
 Math: Multivariable calculus (1D), Discrete math (22)
 Statistics (10, 131)
 Computer Architecture: RISC-V, x86 Assembly (21JA, 120)
