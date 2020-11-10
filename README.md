@@ -17,4 +17,4 @@ Significant experience with C, C++, C#, Python, and Visual Basic
 
 
 
-bubble sort is best sort.
+bubble sort is (not) the best sort.
