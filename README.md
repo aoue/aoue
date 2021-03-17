@@ -6,6 +6,10 @@ B.S. Computer Science, rising senior					|	       June 2022 expected graduation
 
 Data structures (22C, 101)
 
+Analysis of Algorithms (102)
+
+Natural Language Processing (143)
+
 Math: Multivariable calculus (1D), Discrete math (22)
 
 Statistics (10, 131)
