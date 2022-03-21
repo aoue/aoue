@@ -1,8 +1,8 @@
 University of California, Santa Cruz 
 
-B.S. Computer Science, rising senior					|	       June 2022 expected graduation
+B.S. Computer Science, senior					|	       June 2022 expected graduation
 
-3.37 GPA
+3.29 GPA
 
 Data structures (22C, 101)
 
