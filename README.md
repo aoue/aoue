@@ -1,9 +1,12 @@
 Hi (◕‿◕✿)
 
-Here are some screenshots from a project I've been working on.
+Here are some videos/screenshots projects I've worked on.
 
-The story mode:
+
+https://github.com/user-attachments/assets/f373d2e9-53b4-4603-8846-0c22eb6663d3
+
+
 ![A first image](df_vn_screenshot.png)
 
-The combat mode:
+
 ![A second image](df_combat_screenshot.png)
